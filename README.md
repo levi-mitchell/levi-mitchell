@@ -1,24 +1,15 @@
 ## Levi Mitchell
-I am a UK-based programmer.
 
-I'm currently working on expanding my programming skills into the realm of AI.
-Right now I'm learning how to use AI, and how it will affect the future.
-Feel free to ask me about AI.
+UK-based programmer focused on building practical skills in software engineering and AI systems.
 
-Contact:
-levicimitchell@gmail.com
+Currently developing a stronger foundation in AI tools, applied machine learning concepts, and how modern AI systems are reshaping software development and automation.
 
-<!--
-**levi-mitchell/levi-mitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m particularly interested in:
+- Practical AI applications (not just theory)
+- Automation and productivity systems
+- How AI will change software engineering workflows, and productivity overall.
 
-Here are some ideas to get you started:
+Always open to discussions around AI, development, and technical ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+Email: levicimitchell@gmail.com
