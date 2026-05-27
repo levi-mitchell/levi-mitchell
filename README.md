@@ -1,4 +1,12 @@
-## Hi there 👋
+## Levi Mitchell
+I am a UK-based programmer.
+
+I'm currently working on expanding my programming skills into the realm of AI.
+Right now I'm learning how to use AI, and how it will affect the future.
+Feel free to ask me about AI.
+
+Contact:
+levicimitchell@gmail.com
 
 <!--
 **levi-mitchell/levi-mitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
